@@ -28,34 +28,27 @@
 
 ### 🚀 Highlight Projects
 
-📌 **Retail Sales Dashboard (Power BI)**  
-> Interactive dashboard to track product category performance, regional trends & KPIs across fiscal quarters.
+📌 [**AtliQ Hardware Financial Analysis**](https://github.com/Ajith-data-analyst/AtliQ-Hardware-Financial-Analysis)  
+> This project includes detailed financial performance data of AtliQ Hardwares across three fiscal years (2019, 2020, and 2021). 
 
-📌 **Forecasting with Prophet (Python)**  
-> Built time series models using Facebook Prophet to forecast future sales and seasonal trends.
+📌 [**Sales Analysis for AtliQ Hardwares**](https://github.com/Ajith-data-analyst/sales-analysis-AtliQ-hardware)  
+> This project analyzes customer and country-level sales performance of AtliQ Hardwares from 2019 to 2021.
 
-📌 **SQL-Based ETL Pipeline (MySQL)**  
-> Designed robust queries with joins, CTEs, and window functions to clean and prepare raw datasets for analytics.
+📌 [**Project Priority Matrix**](https://github.com/Ajith-data-analyst/Project-Priority-Matrix)  
+> This repository contains a project priority matrix used for evaluating and prioritizing key initiatives. 
 
-📌 **Marketing Analytics (Tableau + Python)**  
-> Analyzed customer demographics, behavior, and conversion funnel to optimize campaign strategies.
+📌 [**Scenario Planning Tool**](https://github.com/Ajith-data-analyst/scenario-planning-tool)  
+> This Excel-based tool helps analyze financial scenarios for product sales. It calculates key financial metrics under three different scenarios.
 
-
-
----
-
-### 📈 GitHub Analytics
-
-[![Ajith’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/Ajith-data-analyst)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/Ajith-data-analyst)
 
 ---
+
 
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajith-data-analyst-814845315/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ajith2139.github.io/portfolio.github.io/home.html)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajithramesh2020@gmail.com)
 
 
 ---
