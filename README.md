@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ajith R — AI-Powered Data Analyst
+# 👋 Hello, I'm Ajith Ramesh — AI-Powered Data Analyst
 
 📊 I transform data into actionable business insights using modern analytical tools and techniques.  
 🎯 Focused on data-driven decision-making, automation, and storytelling through visualizations.
@@ -6,8 +6,8 @@
 ---
 
 ### 💼 About Me
-✔️ Data Analyst skilled in SQL, Python, Excel, and BI tools like Power BI and Tableau  
-✔️ Strong foundation in statistics, data cleaning, modeling, and trend analysis  
+✔️ Data Analyst skilled in SQL, Python, Excel, and BI tools like Power BI 
+✔️ foundation in statistics, data cleaning, modeling, and trend analysis  
 ✔️ Proficient in building dashboards, writing optimized queries, and deriving insights from large datasets  
 ✔️ Keen on solving business problems using data and machine learning techniques  
 
@@ -19,11 +19,10 @@
 
 | Category              | Tools & Technologies                                                                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) |
-| **Data Analysis**     | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
-| **Visualization**     | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black) |
-| **Machine Learning**  | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
-| **Version Control**   | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Languages**         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)  |
+| **Data Analysis**     |  ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
+| **Visualization**     |  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power-BI&logoColor=black) |
+
 
 ---
 
@@ -41,22 +40,22 @@
 📌 **Marketing Analytics (Tableau + Python)**  
 > Analyzed customer demographics, behavior, and conversion funnel to optimize campaign strategies.
 
-👉 *More projects are available in my pinned repositories.*
+
 
 ---
 
 ### 📈 GitHub Analytics
 
-[![Ajith’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
+[![Ajith’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/Ajith-data-analyst)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/Ajith-data-analyst)
 
 ---
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/ajith-data-analyst-814845315/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)]([https://YOUR_PORTFOLIO_URL](https://ajith2139.github.io/portfolio.github.io/home.html)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajithramesh2020@gmail.com)
 
 ---
 
