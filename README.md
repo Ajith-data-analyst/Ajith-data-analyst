@@ -52,12 +52,14 @@
 ## 🎓 Education & Certifications
 
 - **B.Sc. in Computer Science (Artificial Intelligence)**  
- [Sathyabama Institute of Science and Technology](https://www.sathyabama.ac.in/taxonomy/term/90).
- CGPA: 7.06 | [Transcript & Details](https://1drv.ms/f/c/ccf41c87f4c9b722/ElpgxMDoGARPsJR8IyWrubcBXFEqQPSrHsSwHFiI6CiPVw?e=bzak4l).
+  [Sathyabama Institute of Science and Technology](https://www.sathyabama.ac.in/taxonomy/term/90).  
+  CGPA: 7.06  
+  [Transcript & Details](https://1drv.ms/f/c/ccf41c87f4c9b722/ElpgxMDoGARPsJR8IyWrubcBXFEqQPSrHsSwHFiI6CiPVw?e=bzak4l)
 
 - **Data Analysis Boot Camp**  
- [Codebasics — Hands-on projects & real‑world case studies](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance).
- [Certificate](https://1drv.ms/f/c/ccf41c87f4c9b722/EpYCJxBLKeBAodbaMr80v0EBy-LuxiCqR298u64zWxbRmw?e=48TQR9).
+  [Codebasics — Hands-on projects & real‑world case studies](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance).  
+  [Certificate](https://1drv.ms/f/c/ccf41c87f4c9b722/EpYCJxBLKeBAodbaMr80v0EBy-LuxiCqR298u64zWxbRmw?e=48TQR9)
+
 
 ---
 
