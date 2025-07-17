@@ -49,7 +49,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajith-data-analyst-814845315/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ajith2139.github.io/portfolio.github.io/home.html)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajithramesh2020@gmail.com)
+[![Phone](https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+919345264522)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919345264522)
 
+---
+
+### 📚 Coursework
+
+- 🎓 [**Sathyabama Institute of Science and Technology**](https://www.sathyabama.ac.in/taxonomy/term/90)  
+  [B.Sc. - Computer Science in Artificial-Intelligence - CGPA : 7.06](https://1drv.ms/f/c/ccf41c87f4c9b722/ElpgxMDoGARPsJR8IyWrubcBXFEqQPSrHsSwHFiI6CiPVw?e=bzak4l)
+  [3-year undergraduate course focusing on Artificial-Intelligence and data systems.](https://1drv.ms/f/c/ccf41c87f4c9b722/ElpgxMDoGARPsJR8IyWrubcBXFEqQPSrHsSwHFiI6CiPVw?e=bzak4l)
+
+- 🧾 [**Codebasics**](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance)  
+  [Data Analysis Boot Camp - Completed the Data Analysis Boot Camp with hands-on Real Time projects.](https://1drv.ms/f/c/ccf41c87f4c9b722/EpYCJxBLKeBAodbaMr80v0EBy-LuxiCqR298u64zWxbRmw?e=48TQR9)
 
 ---
 
