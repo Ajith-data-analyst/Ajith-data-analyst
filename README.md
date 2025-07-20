@@ -1,4 +1,4 @@
-# 👋 Hello, I’m **Ajith Ramesh** — AI‑Enabled Data Analyst
+# 👋 Hello, I’m **Ajith Ramesh** — AI Augmented Data Analyst
 
 **📈 Elevating business performance through data-driven insights, automation, and storytelling.**
 
