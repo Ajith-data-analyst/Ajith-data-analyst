@@ -25,6 +25,9 @@
 
 ## 🚀 Highlight Projects
 
+- **[Employee-Reimbursement-Dashboard](https://github.com/Ajith-data-analyst/Employee-Reimbursement-Dashboard)**  
+   modern, interactive business intelligence solution designed for efficient company expense management. This dashboard was conceptualized and structured with guidance from Perplexity Labs, harnessing prompt-driven, AI-powered analytics to maximize reporting clarity and impact..
+
 - **[AtliQ Hardware Financial Analysis](https://github.com/Ajith-data-analyst/AtliQ-Hardware-Financial-Analysis)**  
   Comprehensive financial performance review for fiscal years 2019–2021, including product‑level P&L, growth metrics, and margin analysis.
 
