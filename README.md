@@ -25,7 +25,7 @@
 
 ## 🚀 Highlight Projects
 
-- **[Employee-Reimbursement-Dashboard](https://github.com/Ajith-data-analyst/Business-Insights-360)**  
+- **[Business Insights 360](https://github.com/Ajith-data-analyst/Business-Insights-360)**  
 An executive-ready Power BI report delivering powerful insights through interactive visualizations, KPIs, and drill-downs.
 Designed to turn raw data into actionable intelligence ✨
 - **[Employee-Reimbursement-Dashboard](https://github.com/Ajith-data-analyst/Employee-Reimbursement-Dashboard)**  
