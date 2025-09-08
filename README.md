@@ -25,6 +25,9 @@
 
 ## 🚀 Highlight Projects
 
+- **[Employee-Reimbursement-Dashboard](https://github.com/Ajith-data-analyst/Business-Insights-360)**  
+An executive-ready Power BI report delivering powerful insights through interactive visualizations, KPIs, and drill-downs.
+Designed to turn raw data into actionable intelligence ✨
 - **[Employee-Reimbursement-Dashboard](https://github.com/Ajith-data-analyst/Employee-Reimbursement-Dashboard)**  
    modern, interactive business intelligence solution designed for efficient company expense management. This dashboard was conceptualized and structured with guidance from Perplexity Labs, harnessing prompt-driven, AI-powered analytics to maximize reporting clarity and impact..
 
