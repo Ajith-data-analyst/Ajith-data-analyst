@@ -70,7 +70,7 @@
 
 **Transformative enterprise dashboard delivering cross-functional business intelligence with real-time KPI tracking and strategic insights.**
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/business-insights-360)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/business-insights-360)  [![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/business-insights-360)
 
 **✨ Features:**
 - 📈 **Multi-dimensional analysis** across finance, sales, marketing, supply chain
