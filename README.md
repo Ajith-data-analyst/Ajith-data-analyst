@@ -91,13 +91,11 @@
 
 ---
 
-**Note:** Replace `YOUR_USERNAME` with your actual GitHub username and update repository links accordingly. The badge styling creates a professional "button" appearance that encourages clicks while maintaining GitHub's dark theme aesthetic.
-
 ## 📊 **GitHub Analytics**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajith-data-analyst&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajith-data-analyst&layout=compact&theme=radical&langs_count=8"/>
 </p>
 
 <p align="center">
