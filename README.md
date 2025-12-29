@@ -66,11 +66,11 @@
 ## 🏆 **Signature Projects**
 
 ### **📊 Business Insights 360** | *Enterprise BI Dashboard*
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/business-insights-360) > **Power BI • DAX • Power Query • SQL**
+> **Power BI • DAX • Power Query • SQL**
 
 **Transformative enterprise dashboard delivering cross-functional business intelligence with real-time KPI tracking and strategic insights.**
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/business-insights-360)    
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajith-data-analyst/Business-Insights-360/blob/main/README.md)    
 
 **✨ Features:**
 - 📈 **Multi-dimensional analysis** across finance, sales, marketing, supply chain
@@ -87,11 +87,9 @@
 
 **Intelligent expense tracking web application with ML-powered anomaly detection and real-time budget insights.**
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/expense-analyzer)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajith-data-analyst/expense-tracker/blob/main/README.md)
 
 **🚀 Highlights:**
-- 🤖 **ML-powered anomaly detection** for unusual spending patterns
-- 📱 **Mobile-responsive Streamlit dashboard** with interactive visualizations
 - 🔔 **Automated alert system** for budget breaches and savings goals
 - 📅 **Time-series forecasting** using Prophet for expense predictions
 - 📤 **Multi-format export** (PDF, Excel, JSON) for record keeping
@@ -104,7 +102,7 @@
 
 **Live cryptocurrency analytics platform with real-time volatility metrics, risk scoring, and automated reporting.**
 
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/crypto-intelligence)
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajith-data-analyst/crypto_view/blob/main/README.md)
 
 **⚡ Live Features:**
 - 🔴 **Real-time WebSocket connections** to multiple cryptocurrency exchanges
