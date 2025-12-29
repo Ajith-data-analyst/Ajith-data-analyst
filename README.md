@@ -82,7 +82,7 @@
 
 ---
 
-### **💰 AI-Powered Expense Analyzer** | *Personal Finance Intelligence*
+### **Expense Analyzer** 
 > **Python • FastAPI • Streamlit • Plotly • Machine Learning*
 
 **Intelligent expense tracking web application with ML-powered anomaly detection and real-time budget insights.**
@@ -97,7 +97,7 @@
 
 ---
 
-### **🌐 Crypto Intelligence Suite** | *Real-Time Market Analytics*
+### **🌐 Crypto view** | *Real-Time INR Market Analytics*
 > **JavaScript • WebSockets • API • Data Visualization*
 
 **Live cryptocurrency analytics platform with real-time volatility metrics, risk scoring, and automated reporting.**
@@ -118,10 +118,10 @@
 
 | **Degree/Certification**                                                                                                                      | **Institution**                                                                   | **Status**           | **Grade**          |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------- | ------------------ |
-| **[B.Sc Computer Science with Artificial Intelligence](https://www.sathyabama.ac.in/department/department-computer-science-and-engineering)** | **[Sathyabama Institute of Science & Technology](https://www.sathyabama.ac.in/)** | *Expected May 2026*  | **CGPA: 6.74/10**  |
-| **[Gen AI Data Analyst Specialization](https://www.coursera.org/)**                                                                           | **[Coursera](https://www.coursera.org/)**                                         | *Completed*          | **Specialization** |
+| **[B.Sc Computer Science with Artificial Intelligence](https://www.sathyabama.ac.in/taxonomy/term/90)** | **[Sathyabama Institute of Science & Technology](https://www.sathyabama.ac.in/)** | *Expected May 2026*  | **67.40%**  |
+| **[Gen AI Data Analyst Specialization](https://www.coursera.org/specializations/generative-ai-data-analyst)**                                                                           | **[Coursera](https://www.coursera.org/)**                                         | *Completed*          | **Specialization** |
 | **[Data Analytics Bootcamp](https://codebasics.io/bootcamps/data-analytics-bootcamp)**                                                        | **[Codebasics](https://codebasics.io/)**                                          | *Completed*          | **Certified**      |
-| **[Higher Secondary Education](https://www.tn.gov.in/department/28)**                                                                         | **[Zion Matriculation Higher Secondary School](https://zionschool.ac.in/)**       | *Graduated May 2023* | **73.33%**         |
+| **[Higher Secondary Education]**                                                                         | **[Zion Matriculation Higher Secondary School](https://zionschool.ac.in/)**       | *Graduated May 2023* | **73.33%**         |
 
 ---
 
@@ -141,7 +141,7 @@
 ## 📞 **Connect & Collaborate**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE">
+  <a href="https://www.linkedin.com/in/ajith-ramesh-data-analyst/">
     <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <br/><br/>
@@ -152,7 +152,7 @@
     <img src="https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://calendly.com/YOUR_LINK">
+ <a href="tel:+919345264522">
     <img src="https://img.shields.io/badge/Schedule%20a%20Call-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
   </a>
 </p>
