@@ -4,11 +4,36 @@
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ajithramesh2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/9345264522"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://github.com/Ajith-data-analyst"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://ajith-data-analyst.github.io/Portfolio/home.html"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white"/></a>
+ <!-- Contact & Immediate Reach -->
+<a href="mailto:ajithramesh2020@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:+919345264522">
+  <img src="https://img.shields.io/badge/Call%20Me-0A66C2?style=for-the-badge&logo=phone&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/9345264522">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<!-- Professional Identity -->
+<a href="https://www.linkedin.com/in/ajith-ramesh-data-analyst/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ajith-data-analyst.github.io/Portfolio/Ajith_R_Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+<!-- Work Proof -->
+<a href="https://ajith-data-analyst.github.io/Portfolio/home.html">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ajith-data-analyst">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
