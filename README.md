@@ -1,8 +1,6 @@
-##  **About Me**
-
----
 # **AJITH RAMESH**
-### *Data Alchemist • Insight Architect • BI Visionary* **Data Analyst | Turning information into decisions that matter | AI Prompting**
+### *Data Alchemist • Insight Architect • BI Visionary* 
+**Data Analyst | Turning information into decisions that matter | AI Prompting**
 
 
 <p align="left">
