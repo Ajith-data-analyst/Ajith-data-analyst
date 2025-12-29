@@ -91,27 +91,14 @@
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajith-data-analyst&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajith-data-analyst&layout=compact&theme=radical&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&fire=DD2727" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🎓 **Education & Credentials**
 
-| **Degree/Certification** | **Institution** | **Status** | **Grade** |
-|--------------------------|-----------------|------------|-----------|
-| **B.Sc Computer Science with AI** | Sathyabama Institute of Science & Technology | *Expected May 2026* | **CGPA: 6.74/10** |
-| **Gen AI Data Analyst Specialization** | Coursera | *Completed* | **Specialization** |
-| **Data Analytics Bootcamp** | Codebasics | *Completed* | **Certified** |
-| **Higher Secondary** | Zion Matriculation HSS | *Graduated May 2023* | **73.33%** |
+| **Degree/Certification**                                                                                                                      | **Institution**                                                                   | **Status**           | **Grade**          |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------------- | ------------------ |
+| **[B.Sc Computer Science with Artificial Intelligence](https://www.sathyabama.ac.in/department/department-computer-science-and-engineering)** | **[Sathyabama Institute of Science & Technology](https://www.sathyabama.ac.in/)** | *Expected May 2026*  | **CGPA: 6.74/10**  |
+| **[Gen AI Data Analyst Specialization](https://www.coursera.org/)**                                                                           | **[Coursera](https://www.coursera.org/)**                                         | *Completed*          | **Specialization** |
+| **[Data Analytics Bootcamp](https://codebasics.io/bootcamps/data-analytics-bootcamp)**                                                        | **[Codebasics](https://codebasics.io/)**                                          | *Completed*          | **Certified**      |
+| **[Higher Secondary Education](https://www.tn.gov.in/department/28)**                                                                         | **[Zion Matriculation Higher Secondary School](https://zionschool.ac.in/)**       | *Graduated May 2023* | **73.33%**         |
 
 ---
 
