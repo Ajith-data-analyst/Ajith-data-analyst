@@ -1,6 +1,14 @@
-# 🚀 **AJITH RAMESH**  
+## 🎯 **About Me**
+
+---
+                                            <div align="center">
+
+## **AJITH RAMESH**
 ### *Data Alchemist • Insight Architect • BI Visionary*  
-**Transforming Raw Data into Strategic Gold**  
+**Data Analyst | Turning information into decisions that matter | AI Prompting**
+
+</div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -13,32 +21,7 @@
 
 ---
 
-## 🎯 **About Me**
 
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Ajith Ramesh"
-        self.role = "Data Analyst & BI Developer"
-        self.passion = "Turning data into dollars through actionable insights"
-        self.tech_stack = {
-            "BI Tools": ["Power BI", "Tableau"],
-            "Programming": ["Python", "SQL", "JavaScript"],
-            "Data Processing": ["Pandas", "NumPy", "PySpark"],
-            "Visualization": ["Plotly", "Matplotlib", "Streamlit"],
-            "Cloud": ["Azure", "AWS", "GCP"],
-            "DevOps": ["Git", "Docker", "CI/CD"]
-        }
-        self.current_mission = "Building intelligent dashboards that drive business decisions"
-    
-    def say_hello(self):
-        return "Welcome to my data universe! Let's build something impactful."
-    
-me = DataAnalyst()
-print(me.say_hello())
-```
-
----
 
 ## ⚡ **Data Stack Mastery**
 
