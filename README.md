@@ -121,7 +121,7 @@
 | **[B.Sc Computer Science with Artificial Intelligence](https://www.sathyabama.ac.in/taxonomy/term/90)** | **[Sathyabama Institute of Science & Technology](https://www.sathyabama.ac.in/)** | *Expected May 2026*  | **67.40%**  |
 | **[Gen AI Data Analyst Specialization](https://www.coursera.org/specializations/generative-ai-data-analyst)**                                                                           | **[Coursera](https://www.coursera.org/)**                                         | *Completed*          | **Specialization** |
 | **[Data Analytics Bootcamp](https://codebasics.io/bootcamps/data-analytics-bootcamp)**                                                        | **[Codebasics](https://codebasics.io/)**                                          | *Completed*          | **Certified**      |
-| **[Higher Secondary Education]**                                                                         | **[Zion Matriculation Higher Secondary School](https://zionschool.ac.in/)**       | *Graduated May 2023* | **73.33%**         |
+| **Higher Secondary Education**                                                                         | **[Zion Matriculation Higher Secondary School](https://zionschool.ac.in/)**       | *Graduated May 2023* | **73.33%**         |
 
 ---
 
@@ -135,27 +135,6 @@
 3. 📊 **Storytelling Through Data** - Transform metrics into compelling narratives
 4. 🎯 **Business Impact Focus** - Every analysis must answer "So what?"
 5. 🔄 **Continuous Learning** - Daily upskilling in emerging data technologies
-
----
-
-## 📞 **Connect & Collaborate**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ajith-ramesh-data-analyst/">
-    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <br/><br/>
-  
-  **🚀 Ready to turn your data into decisions?**
-  
-  <a href="mailto:ajithramesh2020@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
- <a href="tel:+919345264522">
-    <img src="https://img.shields.io/badge/Schedule%20a%20Call-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
