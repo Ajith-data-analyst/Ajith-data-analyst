@@ -9,7 +9,6 @@
   <a href="https://wa.me/919345264522"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://YOUR_PORTFOLIO.link"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/YOUR_PROFILE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
 ---
@@ -44,93 +43,55 @@
 ### **📊 Business Insights 360** | *Enterprise BI Dashboard*
 > **Power BI • DAX • Power Query • SQL**
 
-```sql
--- Sample query from the project
-WITH BusinessMetrics AS (
-  SELECT 
-    region,
-    product_category,
-    SUM(net_sales) AS total_sales,
-    AVG(gross_margin) AS avg_margin,
-    COUNT(DISTINCT customer_id) AS unique_customers
-  FROM sales_data
-  WHERE year = 2024
-  GROUP BY region, product_category
-)
-SELECT * FROM BusinessMetrics
-ORDER BY total_sales DESC;
-```
+**Transformative enterprise dashboard delivering cross-functional business intelligence with real-time KPI tracking and strategic insights.**
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/business-insights-360)
 
 **✨ Features:**
 - 📈 **Multi-dimensional analysis** across finance, sales, marketing, supply chain
-- 🎯 **Real-time KPI tracking**: Net sales, gross margin, forecast accuracy
-- 🌍 **Geospatial visualization** with drill-down capabilities
-- 🔄 **Automated data refresh** with Power Query ETL pipelines
-- 📊 **Executive dashboard** with trend analysis and forecasting
+- 🎯 **Real-time KPI tracking**: Net sales, gross margin, forecast accuracy, market share
+- 🌍 **Geospatial visualization** with drill-down capabilities by region
+- 🔄 **Automated ETL pipelines** with Power Query for seamless data refresh
+- 📊 **Executive dashboard** with variance, benchmark, and trend analysis
+- 🎨 **Interactive filtering** by customer, product, and time dimensions
 
 ---
 
 ### **💰 AI-Powered Expense Analyzer** | *Personal Finance Intelligence*
 > **Python • FastAPI • Streamlit • Plotly • Machine Learning*
 
-```python
-# Core analytics engine
-class ExpenseIntelligence:
-    def __init__(self, data):
-        self.data = pd.DataFrame(data)
-        self.anomalies = self.detect_anomalies()
-        
-    def detect_anomalies(self):
-        # ML-powered anomaly detection
-        from sklearn.ensemble import IsolationForest
-        model = IsolationForest(contamination=0.1)
-        predictions = model.fit_predict(self.data[['amount']])
-        return predictions == -1
-    
-    def generate_insights(self):
-        return {
-            'savings_rate': self.calculate_savings_rate(),
-            'budget_compliance': self.check_budget(),
-            'top_categories': self.get_top_categories(),
-            'spending_trend': self.analyze_trend()
-        }
-```
+**Intelligent expense tracking web application with ML-powered anomaly detection and real-time budget insights.**
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/expense-analyzer)
 
 **🚀 Highlights:**
-- 🤖 **ML-powered anomaly detection** for unusual spending
-- 📱 **Mobile-responsive Streamlit dashboard**
-- 🔔 **Automated alert system** for budget breaches
-- 📅 **Time-series forecasting** using Prophet
-- 📤 **Export functionality** (PDF, Excel, JSON)
+- 🤖 **ML-powered anomaly detection** for unusual spending patterns
+- 📱 **Mobile-responsive Streamlit dashboard** with interactive visualizations
+- 🔔 **Automated alert system** for budget breaches and savings goals
+- 📅 **Time-series forecasting** using Prophet for expense predictions
+- 📤 **Multi-format export** (PDF, Excel, JSON) for record keeping
+- ⚙️ **Strict schema validation** and automated backups for data reliability
 
 ---
 
 ### **🌐 Crypto Intelligence Suite** | *Real-Time Market Analytics*
 > **JavaScript • WebSockets • API • Data Visualization*
 
-```javascript
-// Real-time crypto data stream
-const cryptoStream = new WebSocket('wss://stream.binance.com:9443/ws');
-cryptoStream.onmessage = (event) => {
-    const data = JSON.parse(event.data);
-    updateDashboard({
-        price: data.p,
-        volume: data.v,
-        volatility: calculateVolatility(data),
-        risk_score: computeRiskScore(data)
-    });
-    generatePDFReport(data); // Auto-report generation
-};
-```
+**Live cryptocurrency analytics platform with real-time volatility metrics, risk scoring, and automated reporting.**
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/crypto-intelligence)
 
 **⚡ Live Features:**
-- 🔴 **Real-time WebSocket connections** to 10+ exchanges
-- 📊 **Advanced volatility metrics** (GARCH, Bollinger Bands)
-- 🚨 **Risk scoring algorithm** with alert triggers
-- 📑 **Automated PDF/JSON report generation**
-- 📈 **Interactive candlestick charts** with technical indicators
+- 🔴 **Real-time WebSocket connections** to multiple cryptocurrency exchanges
+- 📊 **Advanced volatility metrics** including GARCH models and Bollinger Bands
+- 🚨 **Proprietary risk scoring algorithm** with configurable alert triggers
+- 📑 **Automated PDF/JSON report generation** with jsPDF integration
+- 📈 **Interactive candlestick charts** with technical indicators overlay
+- 💾 **Snapshot-based analytical framework** for reproducible time-specific analysis
 
 ---
+
+**Note:** Replace `YOUR_USERNAME` with your actual GitHub username and update repository links accordingly. The badge styling creates a professional "button" appearance that encourages clicks while maintaining GitHub's dark theme aesthetic.
 
 ## 📊 **GitHub Analytics**
 
