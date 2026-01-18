@@ -30,11 +30,11 @@
 <a href="https://github.com/Ajith-data-analyst">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
 
 <a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
   <img src="https://img.shields.io/badge/Naukri-0047AB?style=for-the-badge&logo=briefcase&logoColor=white"/>
-</a>
+</a></p>
 
 
 ---
