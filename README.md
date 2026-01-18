@@ -36,6 +36,11 @@
 </a>
 </p>
 
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
+  <img src="https://img.shields.io/badge/Naukri-0047AB?style=for-the-badge&logo=briefcase&logoColor=white"/>
+</a>
+
+
 ---
 
 
