@@ -62,54 +62,13 @@
 
 ---
 
-## 🏆 **Signature Projects**
+|                               | **📊 Business Insights 360** <br> *Enterprise BI Dashboard*                                                                                                                                                                                                                                                                                                                                                                                                                                       | **Expense Analyzer**                                                                                                                                                                                                                                                                                | **🌐 Crypto view** <br> *Real-Time INR Market Analytics*                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tech Stack**                | Power BI • DAX • Power Query • SQL                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Python • FastAPI • Streamlit • Plotly • Machine Learning                                                                                                                                                                                                                                            | JavaScript • WebSockets • API • Data Visualization                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Description**               | Transformative enterprise dashboard delivering cross-functional business intelligence with real-time KPI tracking and strategic insights.                                                                                                                                                                                                                                                                                                                                                         | Intelligent expense tracking web application with ML-powered anomaly detection and real-time budget insights.                                                                                                                                                                                       | Live cryptocurrency analytics platform with real-time volatility metrics, risk scoring, and automated reporting.                                                                                                                                                                                                                                                                                                                                                                            |
+| **Repository**                | [View Repository](https://github.com/Ajith-data-analyst/Business-Insights-360/blob/main/README.md)                                                                                                                                                                                                                                                                                                                                                                                                | [View Repository](https://github.com/Ajith-data-analyst/expense-tracker/blob/main/README.md)                                                                                                                                                                                                        | [View Repository](https://github.com/Ajith-data-analyst/crypto_view/blob/main/README.md)                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Key Features / Highlights** | 📈 **Multi-dimensional analysis** across finance, sales, marketing, supply chain <br> 🎯 **Real-time KPI tracking**: Net sales, gross margin, forecast accuracy, market share <br> 🌍 **Geospatial visualization** with drill-down capabilities by region <br> 🔄 **Automated ETL pipelines** with Power Query for seamless data refresh <br> 📊 **Executive dashboard** with variance, benchmark, and trend analysis <br> 🎨 **Interactive filtering** by customer, product, and time dimensions | 🔔 **Automated alert system** for budget breaches and savings goals <br> 📅 **Time-series forecasting** using Prophet for expense predictions <br> 📤 **Multi-format export** (PDF, Excel, JSON) for record keeping <br> ⚙️ **Strict schema validation** and automated backups for data reliability | 🔴 **Real-time WebSocket connections** to multiple cryptocurrency exchanges <br> 📊 **Advanced volatility metrics** including GARCH models and Bollinger Bands <br> 🚨 **Proprietary risk scoring algorithm** with configurable alert triggers <br> 📑 **Automated PDF/JSON report generation** with jsPDF integration <br> 📈 **Interactive candlestick charts** with technical indicators overlay <br> 💾 **Snapshot-based analytical framework** for reproducible time-specific analysis |
 
-### **📊 Business Insights 360** | *Enterprise BI Dashboard*
-> **Power BI • DAX • Power Query • SQL**
-
-**Transformative enterprise dashboard delivering cross-functional business intelligence with real-time KPI tracking and strategic insights.**
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajith-data-analyst/Business-Insights-360/blob/main/README.md)    
-
-**✨ Features:**
-- 📈 **Multi-dimensional analysis** across finance, sales, marketing, supply chain
-- 🎯 **Real-time KPI tracking**: Net sales, gross margin, forecast accuracy, market share
-- 🌍 **Geospatial visualization** with drill-down capabilities by region
-- 🔄 **Automated ETL pipelines** with Power Query for seamless data refresh
-- 📊 **Executive dashboard** with variance, benchmark, and trend analysis
-- 🎨 **Interactive filtering** by customer, product, and time dimensions
-
----
-
-### **Expense Analyzer** 
-> **Python • FastAPI • Streamlit • Plotly • Machine Learning*
-
-**Intelligent expense tracking web application with ML-powered anomaly detection and real-time budget insights.**
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajith-data-analyst/expense-tracker/blob/main/README.md)
-
-**🚀 Highlights:**
-- 🔔 **Automated alert system** for budget breaches and savings goals
-- 📅 **Time-series forecasting** using Prophet for expense predictions
-- 📤 **Multi-format export** (PDF, Excel, JSON) for record keeping
-- ⚙️ **Strict schema validation** and automated backups for data reliability
-
----
-
-### **🌐 Crypto view** | *Real-Time INR Market Analytics*
-> **JavaScript • WebSockets • API • Data Visualization*
-
-**Live cryptocurrency analytics platform with real-time volatility metrics, risk scoring, and automated reporting.**
-
-[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajith-data-analyst/crypto_view/blob/main/README.md)
-
-**⚡ Live Features:**
-- 🔴 **Real-time WebSocket connections** to multiple cryptocurrency exchanges
-- 📊 **Advanced volatility metrics** including GARCH models and Bollinger Bands
-- 🚨 **Proprietary risk scoring algorithm** with configurable alert triggers
-- 📑 **Automated PDF/JSON report generation** with jsPDF integration
-- 📈 **Interactive candlestick charts** with technical indicators overlay
-- 💾 **Snapshot-based analytical framework** for reproducible time-specific analysis
 
 ---
 
